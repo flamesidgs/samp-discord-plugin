@@ -1,1 +1,1 @@
-play.uifserver.net:7776=hyperp|https://discord.gg/4jfH7Qfr63
+127.0.0.1:7777=hyperp|https://discord.gg/4jfH7Qfr63
